@@ -1,13 +1,15 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "youtube api",
+            "android api"
         ],
         "platforms": [
-            "insert platforms"
+            "openframeworks",
+            "mac os"
         ],
         "toolkits": [
-            "insert toolkits"
+            "opencv"
         ]
     },
     "themes": [
