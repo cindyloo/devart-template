@@ -1,14 +1,21 @@
 # Project Title
-Insert the name of your project
+Deconstructing The Selfie
 
 ## Authors
-- Insert main author name, surname, github account
+Cindy Sherman Bishop, @cindyloo
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Mark-making and story-telling is an innate human trait.  This interactive installation/app illuminates these traits by
+examining the proliferation of the modern day digital "portrait."
+Before digital images, creating a portrait required a level of skill. The creative process involving painterly expertise, 
+a skilled hand, photography equipment. Such images captured a moment in time and often an emotional narrative.  Digital images
+have arguably rendered this process unnecessary for many.
+What happens when we deconstruct the moving digital image, frame-by-frame, rendering the image less of a carbon-copy of 
+the present moment and more of an artistic narrative. What kind of portraits are then created?  What happens when we string all of these
+artistic "selfies" together?  Can we say more about ourselves with less?
 
-## Link to Prototype
+#Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
 [Example Link](http://www.google.com "Example Link")
@@ -22,7 +29,9 @@ function test() {
 ```
 ## Links to External Libraries
  NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
+openFrameworks
+Google web speech or Android API
+YouTube API
 [Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
