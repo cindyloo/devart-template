@@ -1,5 +1,5 @@
 ## Deconstructing The Selfie
-
+~ or Selfie Graffiti
 ## Authors
 Cindy Sherman Bishop, @cindyloo
 - Insert other author(s) name, surname, github account (one per list element)
