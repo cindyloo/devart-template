@@ -1,4 +1,4 @@
-# Project Title
+
 Deconstructing The Selfie
 
 ## Authors
