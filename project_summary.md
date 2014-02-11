@@ -8,7 +8,7 @@ Cindy Sherman Bishop, @cindyloo
 ## Description
 Mark-making and story-telling are innate human traits.  This interactive installation/app illuminates these traits with a cartoon-feed (perhaps stop-motion/frame extraction] of a live video stream.  As such, it examines the proliferation of the modern day digital "portrait."
 
-Creating a portrait used to require a level of skill.  Are selfies portraits?  If portraiture may be defined as a captured moment in time embeding an emotional quality, can we answer affirmatively?  How about our ever-growing video library? Where does the creative process come in now that we can create images in our own likenesses that do not require painterly expertise, a skilled hand, some expensive photography equipment?   Digital images
+Creating a portrait used to require a level of skill.  Are selfies portraits or are they more like caricatures?  If portraiture may be defined as a captured moment in time embeding an emotional quality, can we answer affirmatively?  How about our ever-growing video library? Where does the creative process come in now that we can create images in our own likenesses that do not require painterly expertise, a skilled hand, some expensive photography equipment?   Digital images
 have arguably rendered such a process unnecessary for many.
 
 What happens when we deconstruct this moving digital image, frame-by-frame, rendering the image less of a carbon-copy of
