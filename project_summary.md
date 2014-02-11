@@ -6,12 +6,12 @@ Cindy Sherman Bishop, @cindyloo
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
-Mark-making and story-telling are innate human traits.  This interactive installation/app illuminates these traits with a cartoon-feed (perhaps stop-motion/frame extraction] of a live video stream.  Participants can draw additional images to augment the feed (via app touch or oF hand-tracking). As such, it examines the proliferation of the modern day digital "portrait."
+Mark-making and story-telling are innate human traits.  This interactive installation/app illuminates these traits with a cartoon-feed (perhaps stop-motion/frame extraction] of a "h(ij)acked" live video stream.  Participants can draw additional images to augment the feed (via app touch or oF hand-tracking). As such, it examines the proliferation of the modern day digital "portrait."
 
 Creating a portrait used to require a level of skill.  Are selfies portraits or are they more like caricatures?  If portraiture may be defined as a captured moment in time embeding an emotional quality, can we answer affirmatively?  How about our ever-growing video library? Where does the creative process come in now that we can create images in our own likenesses that do not require painterly expertise, a skilled hand, some expensive photography equipment?   Digital images
-have arguably rendered such a process unnecessary for many.
+have arguably rendered such a process unnecessary for many.  
 
-What happens when we deconstruct this moving digital image, frame-by-frame, rendering the image less of a carbon-copy of
+What are the sorts of things we can say if we "hack" the digital imaging process - what happens when we deconstruct this moving digital image, frame-by-frame, rendering the image less of a carbon-copy of
 the present moment into more of an artistic construct.  Can we leverage video's reflexive nature to see ourselves more clearly? In other words, is the result merely an animated avatar of the onlooker or something more meaningful? What kind of portraits and narratives are then created?  Does this encourage additionaly creativity?  If we capture these individual narratives into an ongoing kind of movie, what does this mashup look like? Do we say more about ourselves with less?
 
 #Link to Prototype
