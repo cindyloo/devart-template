@@ -15,7 +15,7 @@ What are the sorts of things we can say if we "hack" the digital imaging process
 the present moment into more of an artistic construct.  Can we leverage video's reflexive nature to see ourselves more clearly? In other words, is the result merely an animated avatar of the onlooker or something more meaningful? What kind of portraits and narratives are then created?  Does this encourage additionaly creativity?  If we capture these individual narratives into an ongoing kind of movie, what does this mashup look like? Do we say more about ourselves with less?
 
 #Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+
 
 [Example Link](http://www.google.com "Example Link")
 
@@ -31,11 +31,9 @@ function test() {
 openFrameworks
 Google web speech or Android API
 YouTube API
-[Example Link](http://www.google.com "Example Link")
+##[Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
