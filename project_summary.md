@@ -1,4 +1,4 @@
-##Deconstructing The Selfie
+## Deconstructing The Selfie
 
 ## Authors
 Cindy Sherman Bishop, @cindyloo
