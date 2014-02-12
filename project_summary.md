@@ -13,7 +13,7 @@ As a software developer, I will reverse-engineer the digital image-making proces
 
 
 #Link to Prototype
-coming soon!
+coming soon...
 
 [Example Link](http://www.google.com "Example Link")
 
