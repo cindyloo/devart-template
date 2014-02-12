@@ -1,4 +1,5 @@
-## The Land of the H(ij)acked Self
+## Flat New World
+or The Land of the H(ij)acked Self
 ## Authors
 Cindy Sherman Bishop, @cindyloo
 - Insert other author(s) name, surname, github account (one per list element)
