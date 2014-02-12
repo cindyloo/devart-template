@@ -1,21 +1,19 @@
 ## Flat New World
 or The Land of the H(ij)acked Self
 
-## Authors
-Cindy Sherman Bishop, @cindyloo
-- Insert other author(s) name, surname, github account (one per list element)
+## Cindy Sherman Bishop, @cindyloo
 
 ## Description
-Mark-making and story-telling are innate human traits.  This interactive installation/app illuminates these traits with a cartoon-feed (perhaps stop-motion/frame extraction] of a "h(ij)acked" live video stream.  Participants can draw additional images to augment the feed (via app touch or oF hand-tracking). As such, it examines the proliferation and consumption of the modern day digital "portrait."
+Mark-making and story-telling are innate human traits.  This interactive installation/app illuminates these traits with a cartoon-feed (perhaps stop-motion/frame extraction] of a "h(ij)acked" live video stream.  Participants can draw additional images and/or text bubbles to augment the feed (via app touch or oF hand-tracking). As such, it examines the proliferation and consumption of the modern day digital "portrait."
 
 As an artist, I have sketched and painted all my life.  With the advent of the digital selfie, I find this digital portraiture very curious. Are selfies portraits or are they more like caricatures?  If portraiture may be defined as a captured moment in time embeding an emotional quality then yes... I think?  How about our ever-growing video library? Where is the creative process now that we do not require painterly expertise, a skilled hand, nor expensive photography equipment?   Furthermore, how are these images interpreted and consumed by others?
 
-As a software developer, I want to reverse-engineer this new digital image-making process.  I want to deconstruct digital video and go backwards to the nexus of portraiture, the tenderness of a line, the emotional connection.  I am curious to see what happens when I "hack" the digital image, frame-by-frame, and reconstruct not a carbon-copy of the present moment but more of an artistic interpretation?  Can I leverage video's reflexive nature in a commentary about the proliferation of the selfie? Will my result merely an animated avatar of the onlooker or something more meaningful? I wish to capture these individual narratives and compose them into an ongoing kind of movie, a mediated video stream that is more than what it appears, as our data and online identities are more than just fodder for corporate consumption.
+As a software developer, I will reverse-engineer this new digital image-making process.  I want to deconstruct digital video via opencv and go backwards into the nexus of portraiture, the tenderness of a line, the emotional connection.  I am curious to see what happens when I "hack" the digital image, frame-by-frame, and reconstruct not a carbon-copy of the present moment but more of an artistic interpretation.  Can I leverage video's reflexive nature in a commentary about the origin and rise of the selfie? Will my result merely an animated avatar or something more meaningful? The installation will capture these individual narratives and compose them into an ongoing mashup movie, a mediated video stream that is more than your average 'selfie' feed, as our data and online identities are more than just fodder for corporate consumption.
 
 
 
 #Link to Prototype
-
+coming soon!
 
 [Example Link](http://www.google.com "Example Link")
 
