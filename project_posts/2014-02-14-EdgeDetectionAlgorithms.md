@@ -9,6 +9,6 @@ digital images/video... I like to call it the maths the May-tricksies...
 
 ![](http://edgedetection.webs.com/)
 
-![](http://https://raw.github.com/cindyloo/devart-template/master/project_images/sobel.jpg)
-![](http://https://raw.github.com/cindyloo/devart-template/master/project_images/prewitt.png)
-![](http://https://raw.github.com/cindyloo/devart-template/master/project_images/prewitt2.png)
+![](https://raw.github.com/cindyloo/devart-template/master/project_images/sobel.png)
+![](https://raw.github.com/cindyloo/devart-template/master/project_images/prewitt.png)
+![](https://raw.github.com/cindyloo/devart-template/master/project_images/prewitt2.png)
