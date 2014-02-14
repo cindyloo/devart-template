@@ -20,7 +20,7 @@ coming soon...
 [Example Link](http://www.google.com "Example Link")
 
 ## Edge detection algorithms...
-The opencv::Canny algorithm is easy/straightforward to employ.  If I mess around with the opencv::blur, invert, erode and dilate, I get closer to the kind of portrait I want to make... 
+The opencv::Canny algorithm is fairly easy/straightforward to employ, even more so thanks to Kyle McDonald's [ofxCv lib](https://github.com/kylemcdonald/ofxCv/wiki/Intermediate-Computer-Vision-with-openFrameworks "ofxCv")lib.  If I mess around with the blur, invert, erode and dilate, I get closer to the kind of portrait I want to make... 
 ```
 	if(cam.isFrameNew()) {
         
@@ -44,7 +44,7 @@ The opencv::Canny algorithm is easy/straightforward to employ.  If I mess around
         
 ```
 
-On the other hand, it's good to have a look at the basic kernels for edge detections so I can play around with internals of line extraction....eg:
+On the other hand, it's good to write code using some of the basic kernels for edge detections so I can play around with internals of line extraction....eg:
 ```
 void ofApp::sobel(){
     
