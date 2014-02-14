@@ -20,7 +20,31 @@ coming soon...
 [Example Link](http://www.google.com "Example Link")
 
 ## Edge detection algorithms...
-The opencv::Canny algorithm is easy/straightforward to employ.  If I opencv::erode and dilate, I get closer to the kind of portrait I want to make... On the other hand, it's good to have a look at the basic kernels for edge detections so I can play around with the line extraction....eg:
+The opencv::Canny algorithm is easy/straightforward to employ.  If I mess around with the opencv::blur, invert, erode and dilate, I get closer to the kind of portrait I want to make... 
+```
+	if(cam.isFrameNew()) {
+        
+        blur(cam, inter, 11);
+        blur(cam, inter2, 11);
+		convertColor(inter, gray, CV_RGB2GRAY);
+        Canny(gray, edge, mouseX, mouseY, 3);
+        
+        threshold(gray, edge2, thresh);
+        
+        //blur(gray,edge,3);
+
+
+         invert(inter2, inter2);
+        convertColor(inter2, edge3, CV_RGB2GRAY);
+         
+        Canny(edge3, edge3, mouseX, mouseY, 3);
+        invert(edge3,edge3);
+        
+        erode(edge3, edge3);
+        
+```
+
+On the other hand, it's good to have a look at the basic kernels for edge detections so I can play around with internals of line extraction....eg:
 ```
 void ofApp::sobel(){
     
