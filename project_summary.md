@@ -19,12 +19,29 @@ coming soon...
 
 [Example Link](http://www.google.com "Example Link")
 
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
+## Edge detection algorithms...
+The Canny algorithm is pretty easy/straightforward.  If I opencv::erode and dilate, I get closer to the kind of portrait I want to make...
 ```
-function test() {
-  console.log("Printing a test");
-}
+void ofApp::sobel(){
+    
+    float kV[3][3] = {-1,0,1,
+        -2,0,2,
+        -1,0,1};
+    
+    float kH[3][3] = {-1,-2,-1,
+        0,0,0,
+        1,2,1};
+        
+      //or prewitt
+       
+    float prewittV[3][3] = {1,0,-1,
+        1,0,-1,
+        1,0,-1};
+    
+    float prewittH[3][3] = {-1,-1,-1,
+        0,0,0,
+        1,1,1};
+
 ```
 ## Links to External Libraries
  NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
