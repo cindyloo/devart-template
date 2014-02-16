@@ -6,7 +6,7 @@ or The Land of the H(ij)acked Self
 
 Flat New World
 or The Land of the H(ij)acked Self
-Mark-making and story-telling are innate human traits.  This interactive installation/app examines portrait-making by compositing a cartoon-feed (perhaps stop-motion/frame extraction] over the "h(ij)acked" live video stream.  Participants can author additional images and/or text bubbles to augment the feed (via app touch or oF hand-tracking). As such, it examines the proliferation and consumption of the modern day digital "portrait."
+Mark-making and story-telling are innate human traits.  This interactive installation/app examines portrait-making by compositing a sketch/cartoon-feed (perhaps stop-motion/frame extraction for added effect] over the "h(ij)acked" live video stream.  Participants can author additional images and/or text bubbles to augment the feed (via app touch or oF hand-tracking). As such, it examines the proliferation and consumption of the modern day digital "portrait."
 
 As an artist, I have sketched and painted all my life.  With the advent of the digital selfie, I find this digital portraiture very curious. Are selfies portraits or are they more like caricatures?  If portraiture may be defined as a captured moment in time embeding an emotional quality then yes, they are portraits... I think?  How about our ever-growing video library? Where is the creative process now that we do not require painterly expertise, a skilled hand, nor expensive photography equipment?   Furthermore, how are these images interpreted and consumed by others?
 
