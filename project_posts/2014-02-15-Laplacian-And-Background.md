@@ -29,5 +29,5 @@ sketch- making it more scratchy/grainy-what have you
 
 ![](https://raw.github.com/cindyloo/devart-template/master/project_images/laplacian2.png)
 
-Background subtraction is next on the list, and seems more confounding than doing it with the Kinect and the ofxKinect library.  I was working with the flat image today, I'm grasping the Mat object much better although first derivative and related functions are still confounding me because cv::subtract etc are still not producing what I expect. Eg, right now the foreground and the background mask are blended... need to modify the alpha channel I guess...
+Background subtraction is next on the list, and seems more confounding than doing it with the Kinect and the ofxKinect library.  I was working with the flat image today, I'm grasping the power of the Mat object much better although first derivative and related functions are still confounding me because cv::subtract etc are still not producing what I expect. Eg, right now the foreground and the background mask are blended... need to modify the alpha channel I guess...
 
