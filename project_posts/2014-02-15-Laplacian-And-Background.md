@@ -1,7 +1,7 @@
 so, the openCV examples in Mastering OpenCV With Practical Computer Vision Projects are pretty great. 
 The simple kernels I was using aren't nearly as good as the Laplacian filter 
 I've got a sketch-image that I am going to work with for now.  I'll come back to tweaking the 
-sketch- making it more scratchy/grainy-what have you
+sketch- making it more scratchy/grainy-what have you.  I learned today about scale invariance and contour continuation...
 
 ```
     Mat gray;
