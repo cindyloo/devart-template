@@ -1,0 +1,31 @@
+so, the openCV examples in Mastering OpenCV With Practical Computer Vision Projects are pretty great. 
+The simple kernels I was using aren't nearly as good as the Laplacian filter... 
+I've got a sketch-image that I am going to work with for now.  I'll come back to tweaking the 
+sketch- making it more scratchy/grainy-what have you
+
+```
+    Mat gray;
+    cv::cvtColor(frame, gray, CV_BGR2GRAY);
+    const int MEDIAN_BLUR_FILTER_SIZE = 11;
+    medianBlur(gray, gray, MEDIAN_BLUR_FILTER_SIZE);
+    Mat edges;
+    const int LAPLACIAN_FILTER_SIZE = 5;
+    cv::Laplacian(gray, edges, CV_8U, LAPLACIAN_FILTER_SIZE);
+    
+    Mat mask;
+    const int EDGES_THRESHOLD =80;
+    threshold(edges, mask, EDGES_THRESHOLD, 255, THRESH_BINARY);
+       // cv::erode(fore,fore,cv::Mat());
+        //cv::dilate(fore,fore,cv::Mat());
+       // cv::findContours(fore,contours,CV_RETR_EXTERNAL,CV_CHAIN_APPROX_NONE);
+       // cv::drawContours(frame,contours,-1,cv::Scalar(0,0,255),2);
+        drawMat(gray, 0,0);
+    //cv::erode(edges,edges, cv::Mat());
+    //cv::dilate(edges,edges, cv::Mat());
+    cv::bitwise_not(edges, edges);
+        drawMat(edges, 640,0);
+        
+```        
+        Background subtraction is next on the list.  I was working with it today, but I am not sure
+to get the background and the foreground mask to interact the way I want.  Right now they are blended
+via the cv::subtract method and it isn't what I want....
