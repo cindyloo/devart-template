@@ -26,8 +26,9 @@ sketch- making it more scratchy/grainy-what have you
         drawMat(edges, 640,0);
         
 ```    
+
 ![](https://raw.github.com/cindyloo/devart-template/master/project_images/laplacian2.jpg)
 
-        Background subtraction is next on the list.  I was working with it today, but I am not sure
+Background subtraction is next on the list.  I was working with it today, but I am not sure
 to get the background and the foreground mask to interact the way I want.  Right now they are blended
 via the cv::subtract method and it isn't what I want....
