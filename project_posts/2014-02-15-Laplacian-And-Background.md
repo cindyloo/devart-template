@@ -1,5 +1,5 @@
 so, the openCV examples in Mastering OpenCV With Practical Computer Vision Projects are pretty great. 
-The simple kernels I was using aren't nearly as good as the Laplacian filter... 
+The simple kernels I was using aren't nearly as good as the Laplacian filter 
 I've got a sketch-image that I am going to work with for now.  I'll come back to tweaking the 
 sketch- making it more scratchy/grainy-what have you
 
@@ -27,8 +27,7 @@ sketch- making it more scratchy/grainy-what have you
         
 ```    
 
-![](https://raw.github.com/cindyloo/devart-template/master/project_images/laplacian2.jpg)
+![](https://raw.github.com/cindyloo/devart-template/master/project_images/laplacian2.png)
 
-Background subtraction is next on the list.  I was working with it today, but I am not sure
-to get the background and the foreground mask to interact the way I want.  Right now they are blended
-via the cv::subtract method and it isn't what I want....
+Background subtraction is next on the list, and seems more confounding than doing it with the Kinect and the ofxKinect library.  I was working with the flat image today, I'm grasping the Mat object much better although first derivative and related functions are still confounding me because cv::subtract etc are still not producing what I expect. Eg, right now the foreground and backgrouny are blended...
+
