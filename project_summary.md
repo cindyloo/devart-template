@@ -16,7 +16,7 @@ I am thinking about pushing the comic book caricature idea further.  Yes, it's a
 
 
 #Link to Prototype
-coming soon...  I just got the animated stop-motion animation going...
+coming soon...  I just got the stop-motion animation simulation (from the live video) going...
 
 [Example Link](http://www.google.com "Example Link")
 
