@@ -13,7 +13,7 @@ As a software developer, I will reverse-engineer the digital image-making proces
 update 2/17/14 -
 I am thinking about pushing the comic book caricature idea further.  Yes, it's a kind of portrait, but it is also inherently reflexive in how we see ourselves through the eyes of others.  I am imagining a whole wall of animated selfies in comic-book form complete with thought-bubbles....
 eg.
-![](https://github.com/cindyloo/devart-template/blob/master/project_images/photo.JPG)
+![](https://github.com/cindyloo/devart-template/blob/master/project_images/photo.jpg)
 
 #Link to Prototype
 coming soon...  I just got the stop-motion animation simulation (from the live video) going...
