@@ -2,6 +2,8 @@
     "technologies": {
         "apis": [
             "youtube api",
+            "google speech api",
+            "twitter api",
             "android api"
         ],
         "platforms": [
