@@ -9,7 +9,8 @@
         "platforms": [
             "openframeworks",
             "mac os",
-            "node.js"
+            "node.js",
+            "couchdb"
         ],
         "toolkits": [
             "opencv"
