@@ -6,7 +6,8 @@
         ],
         "platforms": [
             "openframeworks",
-            "mac os"
+            "mac os",
+            "node.js"
         ],
         "toolkits": [
             "opencv"
