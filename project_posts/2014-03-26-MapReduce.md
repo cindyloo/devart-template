@@ -8,7 +8,7 @@ the "where" will aggregate to the sum of two, so that would be one word that con
 
 if Ryan comes in and types/says "madness, madness, everywhere #whoknows", then madness and #whoknows would also
 have a sum of 2.	
-
+```
 function(doc) {
   if (doc.tags){
 	var num,words
@@ -38,6 +38,7 @@ function(words, num){
 "i"	
 1
 "it"	
+```
 1
 "madness"	
 2
