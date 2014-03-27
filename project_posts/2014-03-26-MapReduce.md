@@ -16,8 +16,17 @@ function(doc) {
 		num = doc.tags[words]
 		val = num
 		emit(words, num);
+}
+	
+}else{  //create tags mapreduce if it isn't in document
+	var parsed, tagsArray
+	
+	parsed = doc.description.split(" ")
+	for (w in parsed){
+		tagsArray =parsed[w]
+		emit(tagsArray,1)
 	}
-	}
+}
 }
 function(words, num){
 	return sum(num)
@@ -45,9 +54,8 @@ function(words, num){
 2
 ```
 
-To insert a new document, the js service will live here, and a parser will have tallied up the strings,
-although I am pretty sure I should do this in CouchDB itself - parse the description in the map and have it create
-the keys ...
+To insert a new document, the js service will live here, and either a parser will have tallied up the strings,
+or the CouchDB view will do it (see above)
 ```
 app.get("/insert", function(request,response) {
     	db.insert({"name":"caroline", "description":"look at me!","keys":{"look":1,"at":1,"me":1}});
