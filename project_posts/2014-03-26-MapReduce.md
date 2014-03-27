@@ -58,6 +58,6 @@ To insert a new document, the js service will live here, and either a parser wil
 or the CouchDB view will do it (see above)
 ```
 app.get("/insert", function(request,response) {
-    	db.insert({"name":"caroline", "description":"look at me!","keys":{"look":1,"at":1,"me":1}});
+    	db.insert({"name":"caroline", "description":"look at me!"});  //tags are generated on the fly
     });call will look pretty much like this
 ```
