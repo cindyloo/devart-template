@@ -10,7 +10,8 @@
             "openframeworks",
             "mac os",
             "node.js",
-            "couchdb"
+            "couchdb",
+            "google's map/reduce paradigm"
         ],
         "toolkits": [
             "opencv"
