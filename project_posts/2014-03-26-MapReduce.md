@@ -38,18 +38,18 @@ function(words, num){
 "i"	
 1
 "it"	
-```
 1
 "madness"	
 2
 "where"	
 2
-
+```
 
 To insert a new document, the js service will live here, and a parser will have tallied up the strings,
-although I am pretty sure I could do this in CouchDB itself - parse the description and have it create
+although I am pretty sure I should do this in CouchDB itself - parse the description in the map and have it create
 the keys ...
-
+```
 app.get("/insert", function(request,response) {
     	db.insert({"name":"caroline", "description":"look at me!","keys":{"look":1,"at":1,"me":1}});
     });call will look pretty much like this
+```
