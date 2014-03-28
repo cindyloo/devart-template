@@ -4,8 +4,7 @@
             "youtube api",
             "google speech api",
             "twitter api",
-            "android api",
-            "google's map-reduce algorithm"
+            "android api"
         ],
         "platforms": [
             "openframeworks",
