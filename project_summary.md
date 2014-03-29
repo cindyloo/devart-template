@@ -27,16 +27,10 @@ eg.
 #Link to Prototype
 coming soon...  I just got the stop-motion animation simulation (from the live video) going...
 
-[Example Link](http://www.google.com "Example Link")
-
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-openFrameworks
-Google web speech or Android API
-YouTube API
-##[Example Link](http://www.google.com "Example Link")
+please see my GitHub oF repository- as noted in the /project_code section
+and the external Libraries openFramworks, node.js, and CouchDB
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
+https://www.youtube.com/watch?v=0mTRI24ZoFc
 
 
