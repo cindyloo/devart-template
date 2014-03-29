@@ -25,7 +25,6 @@ eg.
 ![](https://raw.github.com/cindyloo/devart-template/master/project_images/photo.JPG)
 
 #Link to Prototype
-coming soon...  I just got the stop-motion animation simulation (from the live video) going...
 
 please see my GitHub oF repository- as noted in the /project_code section
 and the external Libraries openFramworks, node.js, and CouchDB
